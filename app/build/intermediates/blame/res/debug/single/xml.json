@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\APP\\_GiHub\\BasicSyncAdapter\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "D:\\APP\\_GiHub\\BasicSyncAdapter\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "D:\\APP\\_GiHub\\BasicSyncAdapter\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "D:\\APP\\_GiHub\\BasicSyncAdapter\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    }
+]
